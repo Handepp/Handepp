@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Reyhan Devara
+# Hey there 👋, I'm Reyhan Devara
 An electrical engineering student at Padjadjaran University who likes programming and embedded.
 
 I am currently participating in the MSIB program activities at the orbit future academy. There I learned a lot about Artificial Intelligence, Machine Learning and Deep Learning
