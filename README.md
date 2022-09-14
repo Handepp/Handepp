@@ -7,9 +7,9 @@ I am currently participating in the MSIB program activities at the orbit future 
 - 🌱 I’m currently learning Artificial Intelligence in Data Science, Computer Vision, and Natural Language Processing 
 - 📫 How to reach me: handep789@gmail.com 
 
-#### Language
+### Language
 [![My Skills](https://skillicons.dev/icons?i=py,c,qt,&theme=light)](https://skillicons.dev)
 
-#### Connect with me :
+### Connect with me :
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/reyhandevara/) [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/reyhand9/) [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/@handep__)  
 
