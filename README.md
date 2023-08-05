@@ -7,7 +7,7 @@ An electrical engineering student at Padjadjaran University who likes Artificial
 - 📫 How to reach me: handep789@gmail.com 
 
 ### Language and tools :
-[![My Skills](https://skillicons.dev/icons?i=py,c,qt,matlab,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,qt,html,css,arduino&theme=light)](https://skillicons.dev)
 
 
 
