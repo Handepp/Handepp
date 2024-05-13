@@ -1,9 +1,8 @@
 # Hey there 👋, I'm Reyhan Devara
-An electrical engineering student at Padjadjaran University who likes Artificial Intelligence and Embedded System.
+Bachelor of Electrical Engineering from Universitas Padjadjaran. Possesses a strong interest in artificial intelligence (AI).
 
-
-- 🎓 I’m currently studying at Universitas Padjadjaran
-- 🌱 I’m currently learning Artificial Intelligence in Data Science, Computer Vision, and Natural Language Processing 
+- 💡 I am currently deepening my knowledge of artificial intelligence.
+- 💼 I'm currently finding a job in the field Artificial Intelligence
 - 📫 How to reach me: handep789@gmail.com 
 
 ### Language and tools :
