@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Reyhan Devara
-Bachelor of Electrical Engineering from Universitas Padjadjaran. Possesses a strong interest in artificial intelligence (AI).
+Bachelor of Electrical Engineering from Universitas Padjadjaran. Possesses a strong interest in Artificial Intelligence (AI).
 
 - 💡 I am currently deepening my knowledge of artificial intelligence.
 - 💼 I'm currently finding a job in the field Artificial Intelligence
