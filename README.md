@@ -7,7 +7,7 @@ As a recent graduate with an engineering degree, I'm keen on bringing my skills 
 
 ### Language and tools :
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=python)
-[![My Skills](https://skillicons.dev/icons?i=py,sqlite,c,qt,html,css,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sqlserver,c,qt,html,css,arduino&theme=light)](https://skillicons.dev)
 
 
 ### Connect with me :
