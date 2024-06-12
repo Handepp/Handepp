@@ -6,7 +6,7 @@ As a recent graduate with an engineering degree, I'm keen on bringing my skills 
 - 📫 How to reach me: handep789@gmail.com 
 
 ### Language and tools :
-[![My Skills](https://skillicons.dev/icons?i=py,sql,c,qt,html,css,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sqlserver,c,qt,html,css,arduino&theme=light)](https://skillicons.dev)
 
 
 ### Connect with me :
