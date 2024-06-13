@@ -6,9 +6,9 @@ As a recent graduate with an engineering degree, I'm keen on bringing my skills 
 - 📫 How to reach me: handep789@gmail.com 
 
 ### Language and tools :
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,microsoftsqlserver,c,html5,css3,arduino,flask,tensorflow&theme=light,mqtt) 
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,microsoftsqlserver,c,html5,css3,arduino,flask,tensorflow,mqtt) 
 
 ### Connect with me :
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/reyhandevara/) [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/reyhand9/) [![My Skills]
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/reyhandevara/) [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/reyhand9/) 
 
 
