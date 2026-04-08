@@ -34,7 +34,6 @@ Electrical Engineering graduate from **Universitas Padjadjaran** (GPA: 3.72/4.00
 - 🏆 &nbsp;**Problem Solver Award** — Unicverse Day 2026
 - 🥈 &nbsp;**2nd Place** — AI Mastery Habibie TechFest 2022 (Orbit Future Academy)
 - 🎓 &nbsp;Thesis: *SAVIBot — Virtual Assistant Bot for Intelligent Vehicle Interaction and Control* (BERT-based chatbot)
-- 📄 &nbsp;Published paper at the **4th International Conference on MECnIT 2021**
 - 📫 &nbsp;Reach me at: **handep789@gmail.com**
 
 ---
@@ -65,8 +64,6 @@ Electrical Engineering graduate from **Universitas Padjadjaran** (GPA: 3.72/4.00
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB%20Design-EasyEDA-2196F3?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ## 🛠️ General Tools
@@ -77,41 +74,7 @@ Electrical Engineering graduate from **Universitas Padjadjaran** (GPA: 3.72/4.00
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-## 💼 Work Experience
-
-### 🏢 Unictive — West Jakarta *(Oct 2024 – Present)*
-**AI Engineer**
-- Built real-time **object detection** systems using **YOLO + OpenCV**
-- Applied **Mediapipe Face Mesh** for virtual makeup & **GFPGAN** for face restoration in photobooth apps
-- Developed **AI Agents** with **Ollama + LangChain** using Model Context Protocol (MCP)
-- Built **RAG systems** using LangChain + **Chroma Vector DB** for intelligent information retrieval
-- Integrated AI pipelines into web apps via **FastAPI & Flask**, with **PostgreSQL** for data storage
-
-### 🏢 Unictive — West Jakarta *(Jan 2025 – Present)*
-**Embedded System Engineer**
-- Designed systems with **ESP32 & Arduino**, integrating ultrasonic, Hall, load cell (HX711), rotary encoder sensors & LED matrices
-- Built real-time motion tracking, human presence detection, and event-triggered control systems
-- Integrated hardware with **Unity, web platforms & Python** via REST APIs, Socket, and Bluetooth
-- Designed PCBs using **EasyEDA** and conducted R&D with **FreeRTOS**
-
-### 🏢 PT. Syergie Indo Prima — Bandung *(Jan – Mar 2022)*
-**Electrical Engineering Intern**
-- Designed 3+ PCB layouts using **Eagle**
-- Built monitoring & control system GUI using **QML & Python** with **MQTT** communication
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 SAVIBot](https://github.com/Handepp/SAVIBot-Virtual-Assistant-Bot-for-Interaction-and-Control-of-Smart-Vehicles-BERT-FLASK) | Virtual assistant for smart vehicle interaction & control (Final Thesis) | BERT · Flask · Python |
-| [💬 BestiBot](https://github.com/Handepp/BestiBot-Chatbot-Flask) | Conversational chatbot with Flask backend | Python · Flask · NLP |
 
 ---
 
@@ -124,14 +87,6 @@ Electrical Engineering graduate from **Universitas Padjadjaran** (GPA: 3.72/4.00
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Handepp&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Handepp&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
